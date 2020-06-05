@@ -1,0 +1,13 @@
+"apreciacion"	40
+"aumentar"	33
+"crecimiento"	341
+"depreciacion"	78
+"deterioro"	49
+"disminuir"	27
+"estable"	4
+"holgura"	107
+"inflacion"	1290
+"lasitud"	7
+"mantener"	177
+"moneda"	97
+"volatilidad"	96

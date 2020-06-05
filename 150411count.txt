@@ -1,0 +1,4 @@
+"aumentar"	1
+"crecimiento"	2
+"inflacion"	11
+"mantener"	2
