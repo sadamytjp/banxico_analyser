@@ -1,0 +1,10 @@
+"aumentar"	4
+"crecimiento"	16
+"depreciacion"	3
+"deterioro"	3
+"disminuir"	3
+"holgura"	9
+"inflacion"	70
+"mantener"	8
+"moneda"	5
+"volatilidad"	2
