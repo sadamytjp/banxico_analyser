@@ -1,9 +1,8 @@
-"aumentar"	4
-"crecimiento"	12
-"depreciacion"	3
-"deterioro"	3
+"crecimiento"	3
+"depreciacion"	1
+"deterioro"	1
 "holgura"	4
-"inflacion"	55
-"mantener"	8
+"inflacion"	16
+"mantener"	3
 "moneda"	3
-"volatilidad"	2
+"volatilidad"	1
