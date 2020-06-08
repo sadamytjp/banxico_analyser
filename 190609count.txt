@@ -1,6 +1,3 @@
-"aumentar"	1
-"crecimiento"	2
 "depreciacion"	1
 "deterioro"	1
-"inflacion"	15
-"mantener"	2
+"inflacion"	4

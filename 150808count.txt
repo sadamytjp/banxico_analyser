@@ -1,7 +1,4 @@
-"aumentar"	2
-"crecimiento"	6
-"depreciacion"	1
-"deterioro"	2
-"inflacion"	30
-"mantener"	2
-"volatilidad"	1
+"aumentar"	1
+"crecimiento"	2
+"deterioro"	1
+"inflacion"	3
